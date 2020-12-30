@@ -1,0 +1,8 @@
+#!/bin/bash 
+
+# install Ansible with PIP 3 on RHEL
+
+pip3 install ansible --user
+
+# check installation 
+ansible --version 

@@ -1,0 +1,8 @@
+#!/bin/bash 
+
+# install Ansible with PIP on Mac
+
+pip install ansible 
+
+# check installation 
+ansible --version 
